@@ -1,0 +1,10 @@
+.cuerpo{
+    color: rgb(255, 2, 2);
+    background-color: black;
+    background-image: image-set();
+    background-size: 100px;
+    font-size: 13px;
+    padding: 24px;
+    border-radius: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
